@@ -55,6 +55,45 @@ export default function LeftPane() {
                     <AddShoppingCartIcon className='leftPaneMenuIcon'/>
                     <span className="leftPaneMenuText">Market</span>
                 </li>
+                <hr/>
+                <div className="pagesYouLiked">
+                <h3>Pages You Liked</h3>
+                </div>
+                <div className="pageList">
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Code with Maca</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Central School</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Anuradhapura</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Trincomalee</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Shoot with Maca</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Shoot with Maca</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Shoot with Maca</span>
+                </li>
+                <li className="pageListItem">
+                    <img src="/images/1.avif" alt="" className="pagePic" />
+                    <span className="pageName">Shoot with Maca</span>
+                </li>
+                </div>
+                
 
 
             </div>
